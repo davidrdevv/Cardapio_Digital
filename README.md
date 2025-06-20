@@ -18,6 +18,7 @@ Cálculo automático de subtotal, desconto e total
 Finalização de pedido
 
 🧪 Tecnologias Utilizadas
+
 HTML5
 
 CSS3
